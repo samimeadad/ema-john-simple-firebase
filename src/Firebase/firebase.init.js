@@ -9,7 +9,7 @@ export default initializeFirebaseAuthentication;
 
 
 /* 
-Steps for authentication
+Steps for Firebase Authentication
 
 Step-1: Initial Setup
 1. firebase: create project
